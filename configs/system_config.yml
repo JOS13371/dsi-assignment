@@ -1,0 +1,6 @@
+url : 'http://gateway.marvel.com/v1/public/characters'
+xlabel : 'Stories'
+ylabel : 'Character'
+title : 'Marvel Characters'
+save_path: 'marvel_analysis'
+ntfy_topic: "Analysis Notification"
